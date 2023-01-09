@@ -1,0 +1,133 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "BLLKrushiKart/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "BOLKrushiKart": "1.0.0",
+          "DALKrushiKart": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BLLKrushiKart.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BLLKrushiKart.dll": {}
+        }
+      },
+      "BOLKrushiKart/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/BOLKrushiKart.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BOLKrushiKart.dll": {}
+        }
+      },
+      "DALKrushiKart/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "BOLKrushiKart": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DALKrushiKart.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DALKrushiKart.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BLLKrushiKart/1.0.0": {
+      "type": "project",
+      "path": "../BLLKrushiKart/BLLKrushiKart.csproj",
+      "msbuildProject": "../BLLKrushiKart/BLLKrushiKart.csproj"
+    },
+    "BOLKrushiKart/1.0.0": {
+      "type": "project",
+      "path": "../BOLKrushiKart/BOLKrushiKart.csproj",
+      "msbuildProject": "../BOLKrushiKart/BOLKrushiKart.csproj"
+    },
+    "DALKrushiKart/1.0.0": {
+      "type": "project",
+      "path": "../DALKrushiKart/DALKrushiKart.csproj",
+      "msbuildProject": "../DALKrushiKart/DALKrushiKart.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "BLLKrushiKart >= 1.0.0",
+      "BOLKrushiKart >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Pritam\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\cdac\\dotnet_practice\\KrushiKart_ECommerce\\KrushiKartWebECommerce\\KrushiKartWebECommerce.csproj",
+      "projectName": "KrushiKartWebECommerce",
+      "projectPath": "E:\\cdac\\dotnet_practice\\KrushiKart_ECommerce\\KrushiKartWebECommerce\\KrushiKartWebECommerce.csproj",
+      "packagesPath": "C:\\Users\\Pritam\\.nuget\\packages\\",
+      "outputPath": "E:\\cdac\\dotnet_practice\\KrushiKart_ECommerce\\KrushiKartWebECommerce\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Pritam\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "E:\\cdac\\dotnet_practice\\KrushiKart_ECommerce\\BLLKrushiKart\\BLLKrushiKart.csproj": {
+              "projectPath": "E:\\cdac\\dotnet_practice\\KrushiKart_ECommerce\\BLLKrushiKart\\BLLKrushiKart.csproj"
+            },
+            "E:\\cdac\\dotnet_practice\\KrushiKart_ECommerce\\BOLKrushiKart\\BOLKrushiKart.csproj": {
+              "projectPath": "E:\\cdac\\dotnet_practice\\KrushiKart_ECommerce\\BOLKrushiKart\\BOLKrushiKart.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

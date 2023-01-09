@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+<ItemGroup>
+    <ProjectReference Include="..\BOLKrushiKart\BOLKrushiKart.csproj" />
+    <ProjectReference Include="..\BLLKrushiKart\BLLKrushiKart.csproj" />
+</ItemGroup>
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,16 @@
+@using BOLKrushiKart;
+@{
+    ViewData["Title"] = "Index Page";
+}
+
+<div>
+    <h2>Kisan Product Catalog</h2>
+    @{
+        List<KrushiProduct> allProducts= (List<KrushiProduct>)ViewData["products"];
+        <ol>
+            @foreach( KrushiProduct product in allProducts){
+                <li> <a href="/product/details/@product.ProductId">@product.ProductTitle</a></li>
+            }    
+        </ol>    
+    }
+</div>

@@ -1,0 +1,17 @@
+@using BOLKrushiKart;
+@{
+    ViewData["Title"] = "Details Page";
+}
+
+<div>
+<h2>In Product Details </h2>
+@{
+   KrushiProduct theProduct=ViewData["product"] as KrushiProduct;
+   <p>Product Id : @theProduct.ProductId</p>
+   <p>Product Title : @theProduct.ProductTitle</p>
+   <p>Product description : @theProduct.ProductDescription</p>
+   <p>Product Price : @theProduct.ProductPrice</p>
+   <p>Product Quantity : @theProduct.ProductQty</p>
+   <p>Product category : @theProduct.ProductCategory</p>
+}
+</div>

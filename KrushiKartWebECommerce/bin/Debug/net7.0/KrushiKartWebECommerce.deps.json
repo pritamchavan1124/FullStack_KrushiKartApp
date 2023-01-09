@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "KrushiKartWebECommerce/1.0.0": {
+        "dependencies": {
+          "BLLKrushiKart": "1.0.0",
+          "BOLKrushiKart": "1.0.0"
+        },
+        "runtime": {
+          "KrushiKartWebECommerce.dll": {}
+        }
+      },
+      "BLLKrushiKart/1.0.0": {
+        "dependencies": {
+          "BOLKrushiKart": "1.0.0",
+          "DALKrushiKart": "1.0.0"
+        },
+        "runtime": {
+          "BLLKrushiKart.dll": {}
+        }
+      },
+      "BOLKrushiKart/1.0.0": {
+        "runtime": {
+          "BOLKrushiKart.dll": {}
+        }
+      },
+      "DALKrushiKart/1.0.0": {
+        "dependencies": {
+          "BOLKrushiKart": "1.0.0"
+        },
+        "runtime": {
+          "DALKrushiKart.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KrushiKartWebECommerce/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BLLKrushiKart/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BOLKrushiKart/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DALKrushiKart/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

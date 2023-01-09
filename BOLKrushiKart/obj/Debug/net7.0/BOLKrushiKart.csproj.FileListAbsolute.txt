@@ -1,0 +1,12 @@
+E:\cdac\dotnet_practice\KrushiKart_ECommerce\BOLKrushiKart\bin\Debug\net7.0\BOLKrushiKart.deps.json
+E:\cdac\dotnet_practice\KrushiKart_ECommerce\BOLKrushiKart\bin\Debug\net7.0\BOLKrushiKart.dll
+E:\cdac\dotnet_practice\KrushiKart_ECommerce\BOLKrushiKart\bin\Debug\net7.0\BOLKrushiKart.pdb
+E:\cdac\dotnet_practice\KrushiKart_ECommerce\BOLKrushiKart\obj\Debug\net7.0\BOLKrushiKart.csproj.AssemblyReference.cache
+E:\cdac\dotnet_practice\KrushiKart_ECommerce\BOLKrushiKart\obj\Debug\net7.0\BOLKrushiKart.GeneratedMSBuildEditorConfig.editorconfig
+E:\cdac\dotnet_practice\KrushiKart_ECommerce\BOLKrushiKart\obj\Debug\net7.0\BOLKrushiKart.AssemblyInfoInputs.cache
+E:\cdac\dotnet_practice\KrushiKart_ECommerce\BOLKrushiKart\obj\Debug\net7.0\BOLKrushiKart.AssemblyInfo.cs
+E:\cdac\dotnet_practice\KrushiKart_ECommerce\BOLKrushiKart\obj\Debug\net7.0\BOLKrushiKart.csproj.CoreCompileInputs.cache
+E:\cdac\dotnet_practice\KrushiKart_ECommerce\BOLKrushiKart\obj\Debug\net7.0\BOLKrushiKart.dll
+E:\cdac\dotnet_practice\KrushiKart_ECommerce\BOLKrushiKart\obj\Debug\net7.0\refint\BOLKrushiKart.dll
+E:\cdac\dotnet_practice\KrushiKart_ECommerce\BOLKrushiKart\obj\Debug\net7.0\BOLKrushiKart.pdb
+E:\cdac\dotnet_practice\KrushiKart_ECommerce\BOLKrushiKart\obj\Debug\net7.0\ref\BOLKrushiKart.dll

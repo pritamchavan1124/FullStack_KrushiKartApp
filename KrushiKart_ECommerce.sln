@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BOLKrushiKart", "BOLKrushiKart\BOLKrushiKart.csproj", "{25517B7F-4436-4C10-AF05-BB8D94A246D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLLKrushiKart", "BLLKrushiKart\BLLKrushiKart.csproj", "{0886C67D-A047-4FF8-B8DA-4584C5566F55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DALKrushiKart", "DALKrushiKart\DALKrushiKart.csproj", "{8CA722DD-9E66-49AE-9056-FC8F96F994E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KrushiKartWebECommerce", "KrushiKartWebECommerce\KrushiKartWebECommerce.csproj", "{48FF6F17-9CA0-4249-8462-EA4CFF434E1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25517B7F-4436-4C10-AF05-BB8D94A246D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25517B7F-4436-4C10-AF05-BB8D94A246D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25517B7F-4436-4C10-AF05-BB8D94A246D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25517B7F-4436-4C10-AF05-BB8D94A246D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0886C67D-A047-4FF8-B8DA-4584C5566F55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0886C67D-A047-4FF8-B8DA-4584C5566F55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0886C67D-A047-4FF8-B8DA-4584C5566F55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0886C67D-A047-4FF8-B8DA-4584C5566F55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CA722DD-9E66-49AE-9056-FC8F96F994E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CA722DD-9E66-49AE-9056-FC8F96F994E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CA722DD-9E66-49AE-9056-FC8F96F994E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CA722DD-9E66-49AE-9056-FC8F96F994E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48FF6F17-9CA0-4249-8462-EA4CFF434E1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48FF6F17-9CA0-4249-8462-EA4CFF434E1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48FF6F17-9CA0-4249-8462-EA4CFF434E1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48FF6F17-9CA0-4249-8462-EA4CFF434E1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "DALKrushiKart/1.0.0": {
+        "dependencies": {
+          "BOLKrushiKart": "1.0.0"
+        },
+        "runtime": {
+          "DALKrushiKart.dll": {}
+        }
+      },
+      "BOLKrushiKart/1.0.0": {
+        "runtime": {
+          "BOLKrushiKart.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DALKrushiKart/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BOLKrushiKart/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
