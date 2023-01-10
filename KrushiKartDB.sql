@@ -61,3 +61,6 @@ values ("Carrot Seed","Seeds","New viraty of carrot seeds",1500,8);
 INSERT INTO products(ProdTitle,ProdCategory,ProdDesc,ProdPrice,ProdQty)
 values ("Pomigrade Seed","Seeds","Hybrid Pomigrade with good qulity seeds",500,15);
 
+INSERT INTO products(ProdTitle,ProdCategory,ProdDesc,ProdPrice,ProdQty)
+values ("12-32-16","Fertlize","NPK 12-32-16 is a DAP based composite fertiliser and is produced at IFFCOs",1600,15);
+

@@ -9,45 +9,45 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = KrushiKartWebECommerce
 build_property.RootNamespace = KrushiKartWebECommerce
-build_property.ProjectDir = D:\IACSD pritam\Dot NET\pritamDotNet\FullStack_KrushiKartApp\KrushiKartWebECommerce\
+build_property.ProjectDir = d:\IACSD pritam\Dot NET\pritamDotNet\FullStack_KrushiKartApp\KrushiKartWebECommerce\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\IACSD pritam\Dot NET\pritamDotNet\FullStack_KrushiKartApp\KrushiKartWebECommerce
+build_property.MSBuildProjectDirectory = d:\IACSD pritam\Dot NET\pritamDotNet\FullStack_KrushiKartApp\KrushiKartWebECommerce
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/IACSD pritam/Dot NET/pritamDotNet/FullStack_KrushiKartApp/KrushiKartWebECommerce/Views/Home/Index.cshtml]
+[d:/IACSD pritam/Dot NET/pritamDotNet/FullStack_KrushiKartApp/KrushiKartWebECommerce/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/IACSD pritam/Dot NET/pritamDotNet/FullStack_KrushiKartApp/KrushiKartWebECommerce/Views/Home/Privacy.cshtml]
+[d:/IACSD pritam/Dot NET/pritamDotNet/FullStack_KrushiKartApp/KrushiKartWebECommerce/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/IACSD pritam/Dot NET/pritamDotNet/FullStack_KrushiKartApp/KrushiKartWebECommerce/Views/Product/Details.cshtml]
+[d:/IACSD pritam/Dot NET/pritamDotNet/FullStack_KrushiKartApp/KrushiKartWebECommerce/Views/Product/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/IACSD pritam/Dot NET/pritamDotNet/FullStack_KrushiKartApp/KrushiKartWebECommerce/Views/Product/Index.cshtml]
+[d:/IACSD pritam/Dot NET/pritamDotNet/FullStack_KrushiKartApp/KrushiKartWebECommerce/Views/Product/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/IACSD pritam/Dot NET/pritamDotNet/FullStack_KrushiKartApp/KrushiKartWebECommerce/Views/Shared/Error.cshtml]
+[d:/IACSD pritam/Dot NET/pritamDotNet/FullStack_KrushiKartApp/KrushiKartWebECommerce/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/IACSD pritam/Dot NET/pritamDotNet/FullStack_KrushiKartApp/KrushiKartWebECommerce/Views/Shared/_ValidationScriptsPartial.cshtml]
+[d:/IACSD pritam/Dot NET/pritamDotNet/FullStack_KrushiKartApp/KrushiKartWebECommerce/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/IACSD pritam/Dot NET/pritamDotNet/FullStack_KrushiKartApp/KrushiKartWebECommerce/Views/_ViewImports.cshtml]
+[d:/IACSD pritam/Dot NET/pritamDotNet/FullStack_KrushiKartApp/KrushiKartWebECommerce/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/IACSD pritam/Dot NET/pritamDotNet/FullStack_KrushiKartApp/KrushiKartWebECommerce/Views/_ViewStart.cshtml]
+[d:/IACSD pritam/Dot NET/pritamDotNet/FullStack_KrushiKartApp/KrushiKartWebECommerce/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/IACSD pritam/Dot NET/pritamDotNet/FullStack_KrushiKartApp/KrushiKartWebECommerce/Views/Shared/_Layout.cshtml]
+[d:/IACSD pritam/Dot NET/pritamDotNet/FullStack_KrushiKartApp/KrushiKartWebECommerce/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-1303x28qqo
