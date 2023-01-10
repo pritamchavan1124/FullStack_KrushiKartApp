@@ -13,3 +13,18 @@ E:\cdac\dotnet_practice\KrushiKart_ECommerce\DALKrushiKart\obj\Debug\net7.0\DALK
 E:\cdac\dotnet_practice\KrushiKart_ECommerce\DALKrushiKart\obj\Debug\net7.0\refint\DALKrushiKart.dll
 E:\cdac\dotnet_practice\KrushiKart_ECommerce\DALKrushiKart\obj\Debug\net7.0\DALKrushiKart.pdb
 E:\cdac\dotnet_practice\KrushiKart_ECommerce\DALKrushiKart\obj\Debug\net7.0\ref\DALKrushiKart.dll
+D:\IACSD pritam\Dot NET\pritamDotNet\FullStack_KrushiKartApp\DALKrushiKart\bin\Debug\net7.0\DALKrushiKart.deps.json
+D:\IACSD pritam\Dot NET\pritamDotNet\FullStack_KrushiKartApp\DALKrushiKart\bin\Debug\net7.0\DALKrushiKart.dll
+D:\IACSD pritam\Dot NET\pritamDotNet\FullStack_KrushiKartApp\DALKrushiKart\bin\Debug\net7.0\DALKrushiKart.pdb
+D:\IACSD pritam\Dot NET\pritamDotNet\FullStack_KrushiKartApp\DALKrushiKart\bin\Debug\net7.0\BOLKrushiKart.dll
+D:\IACSD pritam\Dot NET\pritamDotNet\FullStack_KrushiKartApp\DALKrushiKart\bin\Debug\net7.0\BOLKrushiKart.pdb
+D:\IACSD pritam\Dot NET\pritamDotNet\FullStack_KrushiKartApp\DALKrushiKart\obj\Debug\net7.0\DALKrushiKart.csproj.AssemblyReference.cache
+D:\IACSD pritam\Dot NET\pritamDotNet\FullStack_KrushiKartApp\DALKrushiKart\obj\Debug\net7.0\DALKrushiKart.GeneratedMSBuildEditorConfig.editorconfig
+D:\IACSD pritam\Dot NET\pritamDotNet\FullStack_KrushiKartApp\DALKrushiKart\obj\Debug\net7.0\DALKrushiKart.AssemblyInfoInputs.cache
+D:\IACSD pritam\Dot NET\pritamDotNet\FullStack_KrushiKartApp\DALKrushiKart\obj\Debug\net7.0\DALKrushiKart.AssemblyInfo.cs
+D:\IACSD pritam\Dot NET\pritamDotNet\FullStack_KrushiKartApp\DALKrushiKart\obj\Debug\net7.0\DALKrushiKart.csproj.CoreCompileInputs.cache
+D:\IACSD pritam\Dot NET\pritamDotNet\FullStack_KrushiKartApp\DALKrushiKart\obj\Debug\net7.0\DALKrushiKart.csproj.CopyComplete
+D:\IACSD pritam\Dot NET\pritamDotNet\FullStack_KrushiKartApp\DALKrushiKart\obj\Debug\net7.0\DALKrushiKart.dll
+D:\IACSD pritam\Dot NET\pritamDotNet\FullStack_KrushiKartApp\DALKrushiKart\obj\Debug\net7.0\refint\DALKrushiKart.dll
+D:\IACSD pritam\Dot NET\pritamDotNet\FullStack_KrushiKartApp\DALKrushiKart\obj\Debug\net7.0\DALKrushiKart.pdb
+D:\IACSD pritam\Dot NET\pritamDotNet\FullStack_KrushiKartApp\DALKrushiKart\obj\Debug\net7.0\ref\DALKrushiKart.dll

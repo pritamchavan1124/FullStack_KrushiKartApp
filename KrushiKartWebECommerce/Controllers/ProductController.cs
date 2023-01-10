@@ -24,14 +24,14 @@ public class ProductController : Controller
         return View();
     }
 
-    public IActionResult Details(int id)
-    {
-        CatlogManager managers=new CatlogManager();
-        KrushiProduct product=managers.GetProduct(id);
-        this.ViewData["product"]=product;
+    // public IActionResult Details(int id)
+    // {
+    //     CatlogManager managers=new CatlogManager();
+    //     KrushiProduct product=managers.GetProduct(id);
+    //     this.ViewData["product"]=product;
 
-        return View();
-    }
+    //     return View();
+    // }
 
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
     public IActionResult Error()

@@ -15,3 +15,20 @@ E:\cdac\dotnet_practice\KrushiKart_ECommerce\BLLKrushiKart\obj\Debug\net7.0\BLLK
 E:\cdac\dotnet_practice\KrushiKart_ECommerce\BLLKrushiKart\obj\Debug\net7.0\refint\BLLKrushiKart.dll
 E:\cdac\dotnet_practice\KrushiKart_ECommerce\BLLKrushiKart\obj\Debug\net7.0\BLLKrushiKart.pdb
 E:\cdac\dotnet_practice\KrushiKart_ECommerce\BLLKrushiKart\obj\Debug\net7.0\ref\BLLKrushiKart.dll
+D:\IACSD pritam\Dot NET\pritamDotNet\FullStack_KrushiKartApp\BLLKrushiKart\bin\Debug\net7.0\BLLKrushiKart.deps.json
+D:\IACSD pritam\Dot NET\pritamDotNet\FullStack_KrushiKartApp\BLLKrushiKart\bin\Debug\net7.0\BLLKrushiKart.dll
+D:\IACSD pritam\Dot NET\pritamDotNet\FullStack_KrushiKartApp\BLLKrushiKart\bin\Debug\net7.0\BLLKrushiKart.pdb
+D:\IACSD pritam\Dot NET\pritamDotNet\FullStack_KrushiKartApp\BLLKrushiKart\bin\Debug\net7.0\BOLKrushiKart.dll
+D:\IACSD pritam\Dot NET\pritamDotNet\FullStack_KrushiKartApp\BLLKrushiKart\bin\Debug\net7.0\DALKrushiKart.dll
+D:\IACSD pritam\Dot NET\pritamDotNet\FullStack_KrushiKartApp\BLLKrushiKart\bin\Debug\net7.0\BOLKrushiKart.pdb
+D:\IACSD pritam\Dot NET\pritamDotNet\FullStack_KrushiKartApp\BLLKrushiKart\bin\Debug\net7.0\DALKrushiKart.pdb
+D:\IACSD pritam\Dot NET\pritamDotNet\FullStack_KrushiKartApp\BLLKrushiKart\obj\Debug\net7.0\BLLKrushiKart.csproj.AssemblyReference.cache
+D:\IACSD pritam\Dot NET\pritamDotNet\FullStack_KrushiKartApp\BLLKrushiKart\obj\Debug\net7.0\BLLKrushiKart.GeneratedMSBuildEditorConfig.editorconfig
+D:\IACSD pritam\Dot NET\pritamDotNet\FullStack_KrushiKartApp\BLLKrushiKart\obj\Debug\net7.0\BLLKrushiKart.AssemblyInfoInputs.cache
+D:\IACSD pritam\Dot NET\pritamDotNet\FullStack_KrushiKartApp\BLLKrushiKart\obj\Debug\net7.0\BLLKrushiKart.AssemblyInfo.cs
+D:\IACSD pritam\Dot NET\pritamDotNet\FullStack_KrushiKartApp\BLLKrushiKart\obj\Debug\net7.0\BLLKrushiKart.csproj.CoreCompileInputs.cache
+D:\IACSD pritam\Dot NET\pritamDotNet\FullStack_KrushiKartApp\BLLKrushiKart\obj\Debug\net7.0\BLLKrushiKart.csproj.CopyComplete
+D:\IACSD pritam\Dot NET\pritamDotNet\FullStack_KrushiKartApp\BLLKrushiKart\obj\Debug\net7.0\BLLKrushiKart.dll
+D:\IACSD pritam\Dot NET\pritamDotNet\FullStack_KrushiKartApp\BLLKrushiKart\obj\Debug\net7.0\refint\BLLKrushiKart.dll
+D:\IACSD pritam\Dot NET\pritamDotNet\FullStack_KrushiKartApp\BLLKrushiKart\obj\Debug\net7.0\BLLKrushiKart.pdb
+D:\IACSD pritam\Dot NET\pritamDotNet\FullStack_KrushiKartApp\BLLKrushiKart\obj\Debug\net7.0\ref\BLLKrushiKart.dll

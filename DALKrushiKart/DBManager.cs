@@ -7,11 +7,11 @@ public class DBManager
     {
         List<KrushiProduct> productList = new List<KrushiProduct>();
 
-        productList.Add(new KrushiProduct{ProductId=101,ProductTitle="Tomato Seed",ProductCategory="Seeds",ProductDescription="Hybrid red tomato seeds",ProductPrice=1200,ProductQty=143});
-        productList.Add(new KrushiProduct{ProductId=102,ProductTitle="Ankur Bhendi Seed",ProductCategory="Seeds",ProductDescription="Hybrid bhendi seeds",ProductPrice=950,ProductQty=106});
-        productList.Add(new KrushiProduct{ProductId=103,ProductTitle="Grapes Seed",ProductCategory="Seeds",ProductDescription="Hybrid Black grapes seeds",ProductPrice=730,ProductQty=153});
-        productList.Add(new KrushiProduct{ProductId=104,ProductTitle="Shine Carrot  Seed",ProductCategory="Seeds",ProductDescription="Hybrid Carrot seeds",ProductPrice=1630,ProductQty=126});
-        productList.Add(new KrushiProduct{ProductId=105,ProductTitle="Pomigrade Seed",ProductCategory="Seeds",ProductDescription="Hybrid pomigrades seeds",ProductPrice=1800,ProductQty=93});
+        productList.Add(new KrushiProduct{ProdTitle="Tomato Seed",ProdCategory="Seeds",ProdDesc="Hybrid red tomato seeds",ProdPrice=1200,ProdQty=143});
+        productList.Add(new KrushiProduct{ProdTitle="Ankur Bhendi Seed",ProdCategory="Seeds",ProdDesc="Hybrid bhendi seeds",ProdPrice=950,ProdQty=106});
+        productList.Add(new KrushiProduct{ProdTitle="Grapes Seed",ProdCategory="Seeds",ProdDesc="Hybrid Black grapes seeds",ProdPrice=730,ProdQty=153});
+        productList.Add(new KrushiProduct{ProdTitle="Shine Carrot  Seed",ProdCategory="Seeds",ProdDesc="Hybrid Carrot seeds",ProdPrice=1630,ProdQty=126});
+        productList.Add(new KrushiProduct{ProdTitle="Pomigrade Seed",ProdCategory="Seeds",ProdDesc="Hybrid pomigrades seeds",ProdPrice=1800,ProdQty=93});
     
         return productList;
     }
@@ -19,10 +19,12 @@ public class DBManager
         List<KrushiProduct> products=GetAllProductsList();
 
         //var productItem=from prod in product where prod.ProductId ==id select prod;
-        KrushiProduct product=new KrushiProduct{ProductId=101,ProductTitle="Tomato Seed",ProductCategory="Seeds",
-                                ProductDescription="Hybrid red tomato seeds",ProductPrice=1200,ProductQty=143
+        KrushiProduct product=new KrushiProduct{ProdTitle="Tomato Seed",ProdCategory="Seeds",
+                                ProdDesc="Hybrid red tomato seeds",ProdPrice=1200,ProdQty=143
 
         };
         return product;
     }
+
+    
 }

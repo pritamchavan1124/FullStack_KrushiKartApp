@@ -1,36 +1,42 @@
 {
   "format": 1,
   "restore": {
-    "E:\\cdac\\dotnet_practice\\KrushiKart_ECommerce\\BLLKrushiKart\\BLLKrushiKart.csproj": {}
+    "D:\\IACSD pritam\\Dot NET\\pritamDotNet\\FullStack_KrushiKartApp\\BLLKrushiKart\\BLLKrushiKart.csproj": {}
   },
   "projects": {
-    "E:\\cdac\\dotnet_practice\\KrushiKart_ECommerce\\BLLKrushiKart\\BLLKrushiKart.csproj": {
+    "D:\\IACSD pritam\\Dot NET\\pritamDotNet\\FullStack_KrushiKartApp\\BLLKrushiKart\\BLLKrushiKart.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\cdac\\dotnet_practice\\KrushiKart_ECommerce\\BLLKrushiKart\\BLLKrushiKart.csproj",
+        "projectUniqueName": "D:\\IACSD pritam\\Dot NET\\pritamDotNet\\FullStack_KrushiKartApp\\BLLKrushiKart\\BLLKrushiKart.csproj",
         "projectName": "BLLKrushiKart",
-        "projectPath": "E:\\cdac\\dotnet_practice\\KrushiKart_ECommerce\\BLLKrushiKart\\BLLKrushiKart.csproj",
-        "packagesPath": "C:\\Users\\Pritam\\.nuget\\packages\\",
-        "outputPath": "E:\\cdac\\dotnet_practice\\KrushiKart_ECommerce\\BLLKrushiKart\\obj\\",
+        "projectPath": "D:\\IACSD pritam\\Dot NET\\pritamDotNet\\FullStack_KrushiKartApp\\BLLKrushiKart\\BLLKrushiKart.csproj",
+        "packagesPath": "C:\\Users\\dac\\.nuget\\packages\\",
+        "outputPath": "D:\\IACSD pritam\\Dot NET\\pritamDotNet\\FullStack_KrushiKartApp\\BLLKrushiKart\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Pritam\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\dac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "E:\\cdac\\dotnet_practice\\KrushiKart_ECommerce\\BOLKrushiKart\\BOLKrushiKart.csproj": {
-                "projectPath": "E:\\cdac\\dotnet_practice\\KrushiKart_ECommerce\\BOLKrushiKart\\BOLKrushiKart.csproj"
+              "D:\\IACSD pritam\\Dot NET\\pritamDotNet\\FullStack_KrushiKartApp\\BOLKrushiKart\\BOLKrushiKart.csproj": {
+                "projectPath": "D:\\IACSD pritam\\Dot NET\\pritamDotNet\\FullStack_KrushiKartApp\\BOLKrushiKart\\BOLKrushiKart.csproj"
               },
-              "E:\\cdac\\dotnet_practice\\KrushiKart_ECommerce\\DALKrushiKart\\DALKrushiKart.csproj": {
-                "projectPath": "E:\\cdac\\dotnet_practice\\KrushiKart_ECommerce\\DALKrushiKart\\DALKrushiKart.csproj"
+              "D:\\IACSD pritam\\Dot NET\\pritamDotNet\\FullStack_KrushiKartApp\\DALKrushiKart\\DALKrushiKart.csproj": {
+                "projectPath": "D:\\IACSD pritam\\Dot NET\\pritamDotNet\\FullStack_KrushiKartApp\\DALKrushiKart\\DALKrushiKart.csproj"
               }
             }
           }
@@ -64,22 +70,28 @@
         }
       }
     },
-    "E:\\cdac\\dotnet_practice\\KrushiKart_ECommerce\\BOLKrushiKart\\BOLKrushiKart.csproj": {
+    "D:\\IACSD pritam\\Dot NET\\pritamDotNet\\FullStack_KrushiKartApp\\BOLKrushiKart\\BOLKrushiKart.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\cdac\\dotnet_practice\\KrushiKart_ECommerce\\BOLKrushiKart\\BOLKrushiKart.csproj",
+        "projectUniqueName": "D:\\IACSD pritam\\Dot NET\\pritamDotNet\\FullStack_KrushiKartApp\\BOLKrushiKart\\BOLKrushiKart.csproj",
         "projectName": "BOLKrushiKart",
-        "projectPath": "E:\\cdac\\dotnet_practice\\KrushiKart_ECommerce\\BOLKrushiKart\\BOLKrushiKart.csproj",
-        "packagesPath": "C:\\Users\\Pritam\\.nuget\\packages\\",
-        "outputPath": "E:\\cdac\\dotnet_practice\\KrushiKart_ECommerce\\BOLKrushiKart\\obj\\",
+        "projectPath": "D:\\IACSD pritam\\Dot NET\\pritamDotNet\\FullStack_KrushiKartApp\\BOLKrushiKart\\BOLKrushiKart.csproj",
+        "packagesPath": "C:\\Users\\dac\\.nuget\\packages\\",
+        "outputPath": "D:\\IACSD pritam\\Dot NET\\pritamDotNet\\FullStack_KrushiKartApp\\BOLKrushiKart\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Pritam\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\dac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -117,30 +129,36 @@
         }
       }
     },
-    "E:\\cdac\\dotnet_practice\\KrushiKart_ECommerce\\DALKrushiKart\\DALKrushiKart.csproj": {
+    "D:\\IACSD pritam\\Dot NET\\pritamDotNet\\FullStack_KrushiKartApp\\DALKrushiKart\\DALKrushiKart.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\cdac\\dotnet_practice\\KrushiKart_ECommerce\\DALKrushiKart\\DALKrushiKart.csproj",
+        "projectUniqueName": "D:\\IACSD pritam\\Dot NET\\pritamDotNet\\FullStack_KrushiKartApp\\DALKrushiKart\\DALKrushiKart.csproj",
         "projectName": "DALKrushiKart",
-        "projectPath": "E:\\cdac\\dotnet_practice\\KrushiKart_ECommerce\\DALKrushiKart\\DALKrushiKart.csproj",
-        "packagesPath": "C:\\Users\\Pritam\\.nuget\\packages\\",
-        "outputPath": "E:\\cdac\\dotnet_practice\\KrushiKart_ECommerce\\DALKrushiKart\\obj\\",
+        "projectPath": "D:\\IACSD pritam\\Dot NET\\pritamDotNet\\FullStack_KrushiKartApp\\DALKrushiKart\\DALKrushiKart.csproj",
+        "packagesPath": "C:\\Users\\dac\\.nuget\\packages\\",
+        "outputPath": "D:\\IACSD pritam\\Dot NET\\pritamDotNet\\FullStack_KrushiKartApp\\DALKrushiKart\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Pritam\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\dac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "E:\\cdac\\dotnet_practice\\KrushiKart_ECommerce\\BOLKrushiKart\\BOLKrushiKart.csproj": {
-                "projectPath": "E:\\cdac\\dotnet_practice\\KrushiKart_ECommerce\\BOLKrushiKart\\BOLKrushiKart.csproj"
+              "D:\\IACSD pritam\\Dot NET\\pritamDotNet\\FullStack_KrushiKartApp\\BOLKrushiKart\\BOLKrushiKart.csproj": {
+                "projectPath": "D:\\IACSD pritam\\Dot NET\\pritamDotNet\\FullStack_KrushiKartApp\\BOLKrushiKart\\BOLKrushiKart.csproj"
               }
             }
           }
@@ -154,6 +172,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "mysql.data": {
+              "target": "Package",
+              "version": "[8.0.31, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

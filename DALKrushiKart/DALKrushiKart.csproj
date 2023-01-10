@@ -4,6 +4,10 @@
     <ProjectReference Include="..\BOLKrushiKart\BOLKrushiKart.csproj" />
 </ItemGroup>
 
+<ItemGroup>
+  <PackageReference Include="mysql.data" Version="8.0.31" />
+</ItemGroup>
+
   <PropertyGroup>
     <TargetFramework>net7.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>

@@ -1,0 +1,12 @@
+D:\IACSD pritam\Dot NET\pritamDotNet\FullStack_KrushiKartApp\TestApp\bin\Debug\net7.0\TestApp.deps.json
+D:\IACSD pritam\Dot NET\pritamDotNet\FullStack_KrushiKartApp\TestApp\bin\Debug\net7.0\TestApp.dll
+D:\IACSD pritam\Dot NET\pritamDotNet\FullStack_KrushiKartApp\TestApp\bin\Debug\net7.0\TestApp.pdb
+D:\IACSD pritam\Dot NET\pritamDotNet\FullStack_KrushiKartApp\TestApp\obj\Debug\net7.0\TestApp.csproj.AssemblyReference.cache
+D:\IACSD pritam\Dot NET\pritamDotNet\FullStack_KrushiKartApp\TestApp\obj\Debug\net7.0\TestApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\IACSD pritam\Dot NET\pritamDotNet\FullStack_KrushiKartApp\TestApp\obj\Debug\net7.0\TestApp.AssemblyInfoInputs.cache
+D:\IACSD pritam\Dot NET\pritamDotNet\FullStack_KrushiKartApp\TestApp\obj\Debug\net7.0\TestApp.AssemblyInfo.cs
+D:\IACSD pritam\Dot NET\pritamDotNet\FullStack_KrushiKartApp\TestApp\obj\Debug\net7.0\TestApp.csproj.CoreCompileInputs.cache
+D:\IACSD pritam\Dot NET\pritamDotNet\FullStack_KrushiKartApp\TestApp\obj\Debug\net7.0\TestApp.dll
+D:\IACSD pritam\Dot NET\pritamDotNet\FullStack_KrushiKartApp\TestApp\obj\Debug\net7.0\refint\TestApp.dll
+D:\IACSD pritam\Dot NET\pritamDotNet\FullStack_KrushiKartApp\TestApp\obj\Debug\net7.0\TestApp.pdb
+D:\IACSD pritam\Dot NET\pritamDotNet\FullStack_KrushiKartApp\TestApp\obj\Debug\net7.0\ref\TestApp.dll

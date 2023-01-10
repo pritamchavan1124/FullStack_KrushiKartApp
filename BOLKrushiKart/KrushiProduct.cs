@@ -1,32 +1,32 @@
 ﻿namespace BOLKrushiKart;
 public class KrushiProduct
 {
-    public int ProductId{set;get;}
-    public string ProductTitle{set;get;}
-    public string ProductCategory{set;get;}
-    public string ProductDescription{set;get;}
-    public double ProductPrice{set;get;}
-    public int ProductQty{set;get;}
+    public int ProdId{set;get;}
+    public string ProdTitle{set;get;}
+    public string ProdCategory{set;get;}
+    public string ProdDesc{set;get;}
+    public double ProdPrice{set;get;}
+    public int ProdQty{set;get;}
 
     public KrushiProduct()
     {
 
     }
 
-    public KrushiProduct(int ProductId,string ProductTitle,string ProductCategory,
-    string ProductDescription,double ProductPrice,int ProductQty)
+    public KrushiProduct(string ProdTitle,string ProdCategory,
+    string ProdDesc,double ProdPrice,int ProdQty)
     {
-        this.ProductId=ProductId;
-        this.ProductTitle=ProductTitle;
-        this.ProductCategory=ProductCategory;
-        this.ProductDescription=ProductDescription;
-        this.ProductPrice=ProductPrice;
-        this.ProductQty=ProductQty;
+        this.ProdId=ProdId;
+        this.ProdTitle=ProdTitle;
+        this.ProdCategory=ProdCategory;
+        this.ProdDesc=ProdDesc;
+        this.ProdPrice=ProdPrice;
+        this.ProdQty=ProdQty;
     }
 
     public override string ToString()
     {
-        return string.Format("{0},{1},{2},{3},{4},{5}",ProductId,ProductTitle,ProductCategory,ProductDescription,ProductPrice,ProductQty);
+        return string.Format("{0},{1},{2},{3},{4},{5}",ProdId,ProdTitle,ProdCategory,ProdDesc,ProdPrice,ProdQty);
     }
 
 }

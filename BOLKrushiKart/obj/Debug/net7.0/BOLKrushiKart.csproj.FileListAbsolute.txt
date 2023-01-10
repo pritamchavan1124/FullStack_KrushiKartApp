@@ -10,3 +10,15 @@ E:\cdac\dotnet_practice\KrushiKart_ECommerce\BOLKrushiKart\obj\Debug\net7.0\BOLK
 E:\cdac\dotnet_practice\KrushiKart_ECommerce\BOLKrushiKart\obj\Debug\net7.0\refint\BOLKrushiKart.dll
 E:\cdac\dotnet_practice\KrushiKart_ECommerce\BOLKrushiKart\obj\Debug\net7.0\BOLKrushiKart.pdb
 E:\cdac\dotnet_practice\KrushiKart_ECommerce\BOLKrushiKart\obj\Debug\net7.0\ref\BOLKrushiKart.dll
+D:\IACSD pritam\Dot NET\pritamDotNet\FullStack_KrushiKartApp\BOLKrushiKart\bin\Debug\net7.0\BOLKrushiKart.deps.json
+D:\IACSD pritam\Dot NET\pritamDotNet\FullStack_KrushiKartApp\BOLKrushiKart\bin\Debug\net7.0\BOLKrushiKart.dll
+D:\IACSD pritam\Dot NET\pritamDotNet\FullStack_KrushiKartApp\BOLKrushiKart\bin\Debug\net7.0\BOLKrushiKart.pdb
+D:\IACSD pritam\Dot NET\pritamDotNet\FullStack_KrushiKartApp\BOLKrushiKart\obj\Debug\net7.0\BOLKrushiKart.csproj.AssemblyReference.cache
+D:\IACSD pritam\Dot NET\pritamDotNet\FullStack_KrushiKartApp\BOLKrushiKart\obj\Debug\net7.0\BOLKrushiKart.GeneratedMSBuildEditorConfig.editorconfig
+D:\IACSD pritam\Dot NET\pritamDotNet\FullStack_KrushiKartApp\BOLKrushiKart\obj\Debug\net7.0\BOLKrushiKart.AssemblyInfoInputs.cache
+D:\IACSD pritam\Dot NET\pritamDotNet\FullStack_KrushiKartApp\BOLKrushiKart\obj\Debug\net7.0\BOLKrushiKart.AssemblyInfo.cs
+D:\IACSD pritam\Dot NET\pritamDotNet\FullStack_KrushiKartApp\BOLKrushiKart\obj\Debug\net7.0\BOLKrushiKart.csproj.CoreCompileInputs.cache
+D:\IACSD pritam\Dot NET\pritamDotNet\FullStack_KrushiKartApp\BOLKrushiKart\obj\Debug\net7.0\BOLKrushiKart.dll
+D:\IACSD pritam\Dot NET\pritamDotNet\FullStack_KrushiKartApp\BOLKrushiKart\obj\Debug\net7.0\refint\BOLKrushiKart.dll
+D:\IACSD pritam\Dot NET\pritamDotNet\FullStack_KrushiKartApp\BOLKrushiKart\obj\Debug\net7.0\BOLKrushiKart.pdb
+D:\IACSD pritam\Dot NET\pritamDotNet\FullStack_KrushiKartApp\BOLKrushiKart\obj\Debug\net7.0\ref\BOLKrushiKart.dll
